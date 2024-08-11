@@ -1,5 +1,5 @@
 ![logo](https://github.com/Prensu/Prensu/blob/main/GITHUB%20BANNER.png)
-<h1 align="center">Hi 👋, I'm Prensu Dangol</h1>
+<h1 align="center">Hi, I'm Prensu </h1>
 <h3 align="center">As a dedicated full-time freestyle swimmer, I thrive in the water, pushing my limits and achieving new personal bests,loves competing and training in the water. In my spare time, I work as a part-time data scientist, using data to solve problems and find insights. I enjoy the balance of sports and analytics in my life!</h3>
 
 <img align="right" alt="coding" width="400" src=https://media1.tenor.com/m/55qDeGLl87gAAAAC/mr-bean-swimming.gif>
