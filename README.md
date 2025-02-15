@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prensu" alt="prensu" /></a> </p>
 
-- 🌱 I’m currently learning **Scikit-learn,Statistics,DecisionTrees**
+- 🌱 I’m currently learning **Asp Dot Net Core Mvc**
 
 - 💬 Ask me about **Python**
 
