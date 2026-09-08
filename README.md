@@ -1,69 +1,194 @@
-![logo](https://github.com/Prensu/Prensu/blob/main/GITHUB%20BANNER.png)
-<h1 align="center">Hi, I'm Prensu 👋</h1>
-<h3 align="center">A passionate Data Analyst & aspiring Data Scientist who loves turning data into meaningful insights and stories!</h3>
+![GitHub Banner](https://github.com/Prensu/Prensu/blob/main/GITHUB%20BANNER.png)
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/55qDeGLl87gAAAAC/mr-bean-swimming.gif">
+<h1 align="center">Hi, I'm Prensu Dangol</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prensu&label=Profile%20views&color=0e75b6&style=flat" alt="prensu" /> </p>
+<p align="center">
+  <strong>AI/ML Engineer</strong> · Machine Learning · Deep Learning · Generative AI
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prensu" alt="prensu" /></a> </p>
+<p align="center">
+  I build intelligent systems, experiment with machine learning models,
+  and turn ideas into practical AI applications.
+</p>
 
----
-
-### 🌱 Currently Exploring
-- **Advanced Data Analysis** using Python (Pandas, NumPy, Seaborn, Scikit-learn)  
-- **Machine Learning fundamentals** and **data visualization**  
-- **React Native** and **Advanced Java** for application development  
-
----
-
-### 💬 Ask Me About
-- Python for data analysis  
-- Data cleaning, preprocessing, and visualization  
-- Building simple ML models  
-
----
-
-### 📫 How to Reach Me
-**dangolprensu17newar@gmail.com**
-
----
-
-### ⚡ Fun Fact
-When I’m not analyzing datasets, I’m probably binge-watching Netflix or diving into swimming sessions! 🏊‍♂️📊  
-
----
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prensu dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prensu dangol" height="30" width="40" /></a>
-<a href="https://fb.com/prensu dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prensu dangol" height="30" width="40" /></a>
-<a href="https://instagram.com/prensu dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prensu dangol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prensu dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prensu dangol" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prensu-dangol-37ab56273/">LinkedIn</a>
+  ·
+  <a href="mailto:dangolprensu17newar@gmail.com">Email</a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+## About Me
+
+I'm an **AI/ML Engineer** with hands-on experience in machine learning, deep learning,
+NLP, computer vision, and Generative AI.
+
+I enjoy working across the AI development lifecycle — from data preprocessing and
+model experimentation to building retrieval pipelines, evaluating LLMs, and turning
+models into usable applications.
+
+Currently, I'm focused on:
+
+- Machine Learning & Deep Learning
+- Generative AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- NLP & Transformers
+- AI Agents and Knowledge Graphs
+- Building practical AI applications
+
+---
+
+## What I Work With
+
+### Machine Learning & Deep Learning
+
+- Python
+- PyTorch
+- TensorFlow / Keras
+- Scikit-learn
+- CNNs
+- RNNs / LSTM / GRU
+- Classification & Regression
+- Transfer Learning
+- Model Evaluation
+- Hyperparameter Optimization
+
+### Generative AI & LLMs
+
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- LLM Evaluation
+- Transformers
+- Embeddings
+- Hugging Face
+- LangChain
+- LangGraph
+- Parameter-Efficient Fine-Tuning (PEFT)
+
+### NLP & Data
+
+- Text Preprocessing
+- Tokenization
+- TF-IDF
+- Word & Sentence Embeddings
+- Text Classification
+- Named Entity Recognition
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+
+### AI Engineering
+
+- FastAPI
+- Streamlit
+- MLflow
+- PostgreSQL
+- ChromaDB
+- KuzuDB
+- OpenCV
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## Selected Projects
+
+### AI Code Reviewer
+
+An AI-powered code review system designed to assist developers by analyzing
+code changes and providing context-aware review feedback.
+
+**Technologies:**  
+`Python` `LangGraph` `LangChain` `Knowledge Graphs` `KuzuDB` `PostgreSQL` `LLMs` `RAG`
+
+---
+
+### PrensuGPT
+
+A CLI-based AI chatbot supporting multiple LLM providers with automatic
+fallback handling.
+
+**Technologies:**  
+`Python` `Groq` `Gemini` `Ollama` `httpx` `AsyncIO` `Pydantic`
+
+Features include streaming responses, provider fallback, input validation,
+and a thinking mode for more complex queries.
+
+---
+
+### Credit Card Default Prediction
+
+A deep learning system for predicting whether a credit card customer is likely
+to miss their next payment.
+
+**Technologies:**  
+`PyTorch` `FastAPI` `Streamlit` `MLflow`
+
+Built and evaluated models using a dataset of 30,000 customers and tracked
+multiple experiments to improve model performance.
+
+---
+
+### Private Document Summarization with RAG
+
+A Retrieval-Augmented Generation system for question answering and summarization
+over private documents.
+
+**Technologies:**  
+`LangChain` `ChromaDB` `Hugging Face` `IBM watsonx` `LLMs`
+
+Implemented document chunking, embeddings, vector storage, grounded responses,
+and conversational memory.
+
+---
+
+### Signature Forgery Detection
+
+A computer vision and machine learning system for detecting forged handwritten
+signatures.
+
+**Technologies:**  
+`OpenCV` `HOG` `PCA` `SVM`
+
+---
+
+## Currently Learning
+
+I'm continuously exploring:
+
+- Advanced LLM architectures
+- RAG systems
+- AI Agents
+- Knowledge Graphs
+- LLM evaluation
+- Model fine-tuning
+- Production-oriented AI systems
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prensu" alt="Prensu's GitHub Streak" />
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prensu&show_icons=true&locale=en&layout=compact" alt="prensu" /></p>
+## Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prensu&show_icons=true&locale=en" alt="prensu" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prensu-dangol-37ab56273/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dangolprensu17newar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prensu&" alt="prensu" /></p>
+<p align="center">
+  <i>Building, learning, and experimenting with AI.</i>
+</p>
