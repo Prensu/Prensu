@@ -43,13 +43,8 @@ Currently, I'm focused on:
 
 ### Machine Learning & Deep Learning
 
-- Python
-- PyTorch
-- TensorFlow / Keras
-- Scikit-learn
 - CNNs
 - RNNs / LSTM / GRU
-- Classification & Regression
 - Transfer Learning
 - Model Evaluation
 - Hyperparameter Optimization
@@ -58,7 +53,6 @@ Currently, I'm focused on:
 
 - Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
 - LLM Evaluation
 - Transformers
 - Embeddings
@@ -72,8 +66,7 @@ Currently, I'm focused on:
 - Text Preprocessing
 - Tokenization
 - TF-IDF
-- Word & Sentence Embeddings
-- Text Classification
+- Word & Sentence Embedding
 - Named Entity Recognition
 - Data Cleaning
 - Data Preprocessing
@@ -88,71 +81,7 @@ Currently, I'm focused on:
 - PostgreSQL
 - ChromaDB
 - KuzuDB
-- OpenCV
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
-
----
-
-## Selected Projects
-
-### AI Code Reviewer
-
-An AI-powered code review system designed to assist developers by analyzing
-code changes and providing context-aware review feedback.
-
-**Technologies:**  
-`Python` `LangGraph` `LangChain` `Knowledge Graphs` `KuzuDB` `PostgreSQL` `LLMs` `RAG`
-
----
-
-### PrensuGPT
-
-A CLI-based AI chatbot supporting multiple LLM providers with automatic
-fallback handling.
-
-**Technologies:**  
-`Python` `Groq` `Gemini` `Ollama` `httpx` `AsyncIO` `Pydantic`
-
-Features include streaming responses, provider fallback, input validation,
-and a thinking mode for more complex queries.
-
----
-
-### Credit Card Default Prediction
-
-A deep learning system for predicting whether a credit card customer is likely
-to miss their next payment.
-
-**Technologies:**  
-`PyTorch` `FastAPI` `Streamlit` `MLflow`
-
-Built and evaluated models using a dataset of 30,000 customers and tracked
-multiple experiments to improve model performance.
-
----
-
-### Private Document Summarization with RAG
-
-A Retrieval-Augmented Generation system for question answering and summarization
-over private documents.
-
-**Technologies:**  
-`LangChain` `ChromaDB` `Hugging Face` `IBM watsonx` `LLMs`
-
-Implemented document chunking, embeddings, vector storage, grounded responses,
-and conversational memory.
-
----
-
-### Signature Forgery Detection
-
-A computer vision and machine learning system for detecting forged handwritten
-signatures.
-
-**Technologies:**  
-`OpenCV` `HOG` `PCA` `SVM`
+- OpenCV / Yolo / 
 
 ---
 
